@@ -10,5 +10,5 @@ variable "instance_type" {
 }
 
 variable "keyname" {
-    default = "jenkins-server-key"
+    default = "<your key name>"
 }
