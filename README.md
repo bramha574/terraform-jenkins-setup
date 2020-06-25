@@ -1,6 +1,6 @@
 # terraform-jenkins-setup
 
-# Terraform scripts to setup a jenkins server in an AWS's ec2 instance. 
+## Terraform scripts to setup a jenkins server in an AWS's ec2 instance. 
 
 ## Prereqs:
 
